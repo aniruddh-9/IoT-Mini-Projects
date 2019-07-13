@@ -6,5 +6,6 @@ Application of IoT to control Day-to-Day appliances
 * [Twilio](https://www.twilio.com/)
 * [Mailgun](https://www.mailgun.com/)
 * [CryptoCompare API](https://min-api.cryptocompare.com/)
+* [Integromat](https://www.integromat.com/en)
 
 ###
